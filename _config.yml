@@ -1,6 +1,6 @@
 # Site settings
 title: No Pay Till Mayday
-description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
+description: 'A Blog of Jobless Yet Free Life' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jade-zhou.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -25,7 +25,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Jade Zhou # add your name
-author-pic: Myself_Neon_grey.jpg
+author-pic: portrait_image.svg
 about-author: a new-bee in technology, football and video games
 
 # Contact links
@@ -33,13 +33,13 @@ email: zhj_pkusoc@gmail.com # Add your Email address
 phone: # Add your Phone number
 website: https://jade-zhou.github.io # Add your website
 linkedin:  # Add your Linkedin handle
-github:  # Add your Github handle
+github:  https://github.com/Jade-Zhou # Add your Github handle
 twitter:  # Add your Twitter handle
 bandcamp:  # Add your Bandcamp username
 stackoverflow: # Add your stackoverflow account
 
 # Newsletter
-mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
+mailchimp:
 
 # Disqus
 discus_identifier: amaynez-github-io # Add your discus identifier
